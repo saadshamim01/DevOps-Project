@@ -1,5 +1,10 @@
 # DevOps-Project
 
+### Configuring and Installing
+
+- [Configuring Jenkins on EC2 Linux]()
+- [Configuring Jenkins on EC2 Ubuntu]()
+
 ### Automating using Jenkins
 
 - [Building and Deploying Tomcat Server on AWS EC2 instance](https://github.com/saadshamim01/ci-cd-tomcat)
