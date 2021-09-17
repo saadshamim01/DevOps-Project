@@ -16,4 +16,4 @@
 
 ### Terraform
 
-- [Automate Infrastructure setup and launched Apache Sever Jenkins](https://github.com/saadshamim01/terraform)
+- [Automate Infrastructure setup and launched Apache Sever using Jenkins](https://github.com/saadshamim01/terraform)
